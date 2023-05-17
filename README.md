@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasinnbekir
-- 👀 I’m interested in Bodybuilding
+- 👀 I’m interested in Fitness
 - 🌱 I’m currently learning JavaScript
 
 <!---
